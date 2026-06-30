@@ -1,0 +1,88 @@
+canonical_identifier: bkk:krp/KR5c0071/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5c0071/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 道德真經直解
+  date: '2015-08-29 00:18:27.248240'
+  source:
+    repository: kanripo
+    path: KR5c0071
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5c0071_000-ZTDZ.yaml, hash: 'sha256:e4d6b7a8487f43dc6a5d7cdf8391880eb4183c8350562a4fc89ca1be0c09851e'}
+  - {seq: 1, filename: KR5c0071_001-ZTDZ.yaml, hash: 'sha256:32cb17f220f4a7889030e0e9861ec0990567da8d33e09d8584f5c2b0dcbd79db'}
+  - {seq: 2, filename: KR5c0071_002-ZTDZ.yaml, hash: 'sha256:5f83775a10b82815831070e3ab2de0835c2f041fe24b86c7f3c4eeb7c2759076'}
+  - {seq: 3, filename: KR5c0071_003-ZTDZ.yaml, hash: 'sha256:abd89a46549741d79cc788d4dd9901d65fb3c847e2322eda02c4be5934c1b25f'}
+  - {seq: 4, filename: KR5c0071_004-ZTDZ.yaml, hash: 'sha256:f8ecae12ca11c11cb076c81966a0bba88b676db02d012064b580ebf46ca1d6fe'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5c0071_000-ZTDZ.markers.yaml, hash: 'sha256:4fd0ee3cba0460707dc6b781034d84e9462fa44c8906425088a6a41789548239'}
+  - {seq: 1, role: markers, filename: assets/KR5c0071_001-ZTDZ.markers.yaml, hash: 'sha256:f34ce71024281764a3dae2796ff8e5e21465156f44d40d055dd0e9719e2d1df8'}
+  - {seq: 2, role: markers, filename: assets/KR5c0071_002-ZTDZ.markers.yaml, hash: 'sha256:543164f06dbb813f4f8dfbd1bab07bcfd584c17e155d6c9da5eeea3606f2677e'}
+  - {seq: 3, role: markers, filename: assets/KR5c0071_003-ZTDZ.markers.yaml, hash: 'sha256:61903ee702cd69e45d2d2733ab7a51f05f211257565b90a132b38a615440e963'}
+  - {seq: 4, role: markers, filename: assets/KR5c0071_004-ZTDZ.markers.yaml, hash: 'sha256:5256b9460ebafb94d7b7829e98b24ffa6892238874cdd7260503ed2546cd07d5'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5c0071_SJB_000-120236c
+    span:
+    - body
+    - 0
+    - 114
+  label: juan 000
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR5c0071_SJB_001-120239a
+    span:
+    - body
+    - 0
+    - 2668
+  label: juan 001
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR5c0071_SJB_002-120242a
+    span:
+    - body
+    - 0
+    - 6446
+  label: juan 002
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR5c0071_SJB_003-120248c
+    span:
+    - body
+    - 0
+    - 5314
+  label: juan 003
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR5c0071_SJB_004-120254b
+    span:
+    - body
+    - 0
+    - 7208
+  label: juan 004
+  type: section
+  level: 1
+hash: sha256:173c923aa640424fbd3d2d81cd055e8e8eeefff50add7e9a067de3600992b662
